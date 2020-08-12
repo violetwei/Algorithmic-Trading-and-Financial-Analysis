@@ -1,1 +1,1 @@
-# Algorithmic-Trading-and-Financial-Analysis
+# Algorithmic Trading and Financial Analysis
